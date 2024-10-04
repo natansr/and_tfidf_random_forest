@@ -38,19 +38,19 @@ Para rodar o código, basta seguir os seguintes passos:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/usuario/projeto-desambiguação.git
+git clone https://github.com/natansr/and_tfidf_random_forest.git
 ```
 
 2. Navegue até o diretório do projeto:
 
 ```bash
-cd projeto-desambiguação
+cd and_tfidf_random_forest
 ```
 
 3. Execute o script principal:
 
 ```bash
-python main.py
+python main.ipynb
 ```
 
 ### Funcionalidades
