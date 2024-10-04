@@ -85,4 +85,5 @@ O desempenho dos modelos é avaliado com as seguintes métricas:
 ### Autores
 
 - Natan Rodrigues
+- Leonardo Seger
 - Contato: [email](mailto:natan5souza@gmail.com)
